@@ -216,3 +216,29 @@ h1 {
 iframe {
   width: 100%;
 }
+
+/* PADDING */
+.aboutme{
+  padding-top: 100px;
+}
+
+.blackboard {
+  padding-top: 100px;
+}
+
+.skill{
+  padding-top: 60px;
+}
+
+.tool{
+  padding-top: 80px;
+}
+
+.last{
+  padding-top: 100px;
+}
+
+
+
+
+
