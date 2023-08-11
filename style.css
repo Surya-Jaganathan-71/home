@@ -54,6 +54,7 @@ h1 {
 .navbar {
   position: fixed;
   width: 100%;
+  z-index: 1;
 }
 
 .navbar-brand img {
@@ -238,7 +239,23 @@ iframe {
   padding-top: 100px;
 }
 
+.resume{
+  padding-top: 100px;
+}
 
+.resume button{
+  border-radius: 5px;
+  color: white;
+  background-color: #0000ff;
+  box-shadow: 2px 2px 2px white;
+}
 
+.resume button {
+  text-decoration: none !important;
+}
 
-
+.resume button:hover {
+  background-color: #0000ff;
+  box-shadow: 2px 2px 2px black;
+  cursor: pointer;
+}
